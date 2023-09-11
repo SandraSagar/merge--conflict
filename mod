@@ -1,3 +1,3 @@
 a=6
 b=37
-print=(a%b)
+print=("the modulous of 2 numbers= ",a%b)
